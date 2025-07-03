@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "fetwfe"]
 	path = fetwfe
-	url = https://github.com/cran/fetwfe
+	url = https://github.com/gregfaletto/fetwfepackage
